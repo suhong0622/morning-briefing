@@ -2,6 +2,7 @@
   "name": "morning-briefing-script-generator",
   "version": "1.0.0",
   "private": true,
+  "type": "commonjs",
   "description": "주식 모닝브리핑 영상 스크립트 생성기 - 독립 배포용",
   "engines": {
     "node": ">=18"
